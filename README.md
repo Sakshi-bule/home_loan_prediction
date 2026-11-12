@@ -1,6 +1,6 @@
 # Home Loan Default Risk Prediction & Eligibility Analysis (PRCP-1006)
 
-> **Live Web App:** [Launch Streamlit App](#) *(Deployment link coming soon)*
+> **Live Web App:** https://homeloanprediction-sbnirhrblbappcy7ogekcm.streamlit.app/
 
 An end-to-end banking Machine Learning system designed to evaluate borrower creditworthiness, identify key risk factors, and predict loan default risk across **307,511 loan applications** and **7 interconnected relational datasets** (`application_train`, `bureau`, `bureau_balance`, `previous_application`, `installments_payments`, `POS_CASH_balance`, and `credit_card_balance`).
 
